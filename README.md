@@ -131,6 +131,16 @@ STREAMLITE ML/
 ├── streamliteml.py
 ├── requirements.txt
 
+```
+---
+##### 👤 Biodata Penulis
+
+- **Nama** : Muhammad Roofiif Aflah Robbaanii  
+- **NIM** : 202210370311152
+- **Program Studi** : Informatika  
+- **Fakultas** : Teknik  
+- **Universitas** : Universitas Muhammadiyah Malang  
+
 
 
 
