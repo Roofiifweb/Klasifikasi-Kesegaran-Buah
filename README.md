@@ -85,7 +85,6 @@ Berikut adalah tabel perbandingan performa ketiga arsitektur model berdasarkan p
 
 Berikut adalah bukti visualisasi hasil pelatihan (**Confusion Matrix** & **Grafik Loss**).
 
-Berikut adalah bukti visualisasi hasil pelatihan (**Confusion Matrix** & **Grafik Loss**).
 
 ### 1. Analisis Custom CNN
 
