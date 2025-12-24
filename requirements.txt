@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+torch
+torchvision
+timm
+pillow
+numpy
