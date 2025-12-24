@@ -111,7 +111,7 @@ Berikut adalah bukti visualisasi hasil pelatihan (**Confusion Matrix** & **Grafi
 
 Dikarenakan ukuran file yang besar, model **TIDAK** disertakan dalam repository ini. Anda wajib mengunduhnya dari Google Drive agar aplikasi dapat berjalan.
 
-👉 **[Klik Disini untuk Mengunduh Model (Google Drive)]([https://link-google-drive-anda-disini](https://drive.google.com/drive/folders/1ZTu9TzxS3_9CYWaEV2rxdM4IkW72SvEY?usp=sharing))**
+👉 **[Klik Disini untuk Mengunduh Model (Google Drive)](https://drive.google.com/drive/folders/1ZTu9TzxS3_9CYWaEV2rxdM4IkW72SvEY?usp=sharing)**
 
 ### 📂 Panduan Penempatan File:
 
